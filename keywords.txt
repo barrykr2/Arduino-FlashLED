@@ -1,0 +1,3 @@
+arfcFlashLEDs	KEYWORD1
+
+flashLED	KEYWORD2
